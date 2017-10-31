@@ -2,3 +2,5 @@ node_modules
 
 # Emacs save files
 *~
+
+bundle.js
