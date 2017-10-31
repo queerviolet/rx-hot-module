@@ -1,10 +1,11 @@
 {
-  "name": "scratch",
-  "version": "0.0.0",
+  "name": "rx-hot-module",
+  "version": "0.0.1",
   "description": "",
   "main": "rxhot.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server --hot --port 9999"
   },
   "keywords": [],
   "author": "Ashi Krishnan <hi@ashi.io>",
